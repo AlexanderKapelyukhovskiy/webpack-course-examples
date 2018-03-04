@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+# vue-example
+/vue-example/build/
+/vue-example/config/
+/vue-example/dist/
+#/vue-example/*.js
+/vue-example/test/unit/coverage/ 
+/vue-example/test/unit/coverage/
+/vue-example/test/e2e/reports/
+/vue-example/dist/
+
+
